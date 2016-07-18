@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
 	    animIndex = 0;
 	    walkCheck = false;
 	}
-	
+
 	// Update is called once per frame
 	void Update ()
 	{
